@@ -1,0 +1,26 @@
+.result-name-card {
+
+    color: #e7e9f0;
+    background-color: #282d4f;
+    margin: 10px 15px;
+    min-width: 75px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: background 0.35s;
+
+}
+
+.result-name
+{
+    background-color:#282d4f ;
+    font-weight: 100;
+}
+
+
+
+
+.card-link 
+{
+    list-style: none;
+    text-decoration: none;
+}
